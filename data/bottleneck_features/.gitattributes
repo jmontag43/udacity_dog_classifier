@@ -1,0 +1,2 @@
+DogResnet50Data.npz filter=lfs diff=lfs merge=lfs -text
+DogVGG16Data.npz filter=lfs diff=lfs merge=lfs -text
